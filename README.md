@@ -12,6 +12,6 @@
 
 <br>
 <br>
-[![JindaiYuuki's Langs stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JDYuuki&layout=compact&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
-
+[![JindaiYuuki's Langs stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JDYuuki&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+<br>
 [![JindaiYuuki's github stats](https://github-readme-stats.vercel.app/api?username=JDYuuki&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
