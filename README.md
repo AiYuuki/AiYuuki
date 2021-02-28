@@ -11,12 +11,13 @@
 </a>
 <br>
 <br>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JDYuuki&layout=compact&theme=vue" alt="JindaiYuuki's Langs stats"/>
 <ul>
     <li>Like front-end, but want to become a game developer.</li>
     <li>Imprisoned by laziness.</li>
     <li>VS Code | macOS | Typora</li>
 </ul>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JDYuuki&layout=compact&theme=vue" alt="JindaiYuuki's Langs stats"/>
+
 
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=JDYuuki&show_icons=true&theme=vue&include_all_commits=true" alt="JindaiYuuki's github stats"/>
