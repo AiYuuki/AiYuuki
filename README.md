@@ -9,10 +9,7 @@
 <a href="https://steamcommunity.com/id/JindaiYuuki/">
   <img align="left" alt="JindaiYuuki | Steam" width="21px" src="https://raw.githubusercontent.com/JDYuuki/JDYuuki/main/assets/steam.svg">
 </a>
-
 <br>
 <br>
-
-![JindaiYuuki's Langs stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JDYuuki&layout=compact&theme=vue)
-
-![JindaiYuuki's Langs stats](https://github-readme-stats.vercel.app/api?username=JDYuuki&show_icons=true&theme=vue)
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JDYuuki&layout=compact&theme=vue" alt="JindaiYuuki's Langs stats"/><br>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=JDYuuki&show_icons=true&theme=vue" alt="JindaiYuuki's github stats"/>
