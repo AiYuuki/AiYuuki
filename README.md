@@ -18,6 +18,12 @@
 </ul>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JDYuuki&layout=compact&theme=vue" alt="JindaiYuuki's Langs stats"/>
 
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=JDYuuki&show_icons=true&theme=vue&include_all_commits=true" alt="JindaiYuuki's github stats"/>
 
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=JDYuuki&show_icons=true&theme=vue&include_all_commits=true" alt="JindaiYuuki's github stats"/>
+
+ <!-- waka-box start -->
+ 
+ <!-- waka-box end -->
