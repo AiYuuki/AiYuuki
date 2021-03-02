@@ -22,8 +22,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=JDYuuki&show_icons=true&theme=vue&include_all_commits=true" alt="JindaiYuuki's github stats"/>
 
-<br>
-
  <!-- waka-box start -->
 #### <a href="https://gist.github.com/2499bd8fe920a610be6ad8925f273ce9" target="_blank">📊 Weekly development breakdown</a>
 ```text
