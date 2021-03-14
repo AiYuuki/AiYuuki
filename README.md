@@ -1,5 +1,5 @@
 ### Hi there, I'm [夕綺Yuuki](https://kira.cool/aboutme)~ 👋
-
+<html>
 <a href="https://twitter.com/JindaiYuuki">
     <img align="left" alt="JindaiYuuki | Twitter" width="21px" src="https://raw.githubusercontent.com/JDYuuki/JDYuuki/main/assets/twitter.svg">
 </a>
@@ -17,8 +17,11 @@
     <li>VS Code | macOS | Typora</li>
 </ul>
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=JDYuuki&show_icons=true&theme=vue&include_all_commits=true" alt="JindaiYuuki's github stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JDYuuki&layout=compact&theme=vue" alt="JindaiYuuki's Langs stats"/>
+</html>
+
+ [![github stats](https://github-readme-stats.vercel.app/api?username=JDYuuki&show_icons=true&theme=vue&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JDYuuki&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+
 
  <!-- waka-box start -->
 #### <a href="https://gist.github.com/2499bd8fe920a610be6ad8925f273ce9" target="_blank">📊 Weekly development breakdown</a>
