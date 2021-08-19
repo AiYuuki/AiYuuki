@@ -27,11 +27,11 @@
  <!-- waka-box start -->
 #### <a href="https://gist.github.com/2499bd8fe920a610be6ad8925f273ce9" target="_blank">📊 Weekly development breakdown</a>
 ```text
-Vue.js                   🕓 24 hrs 38 mins ████▍ 88.5%
-JSON                     🕓 1 hr 36 mins   ▎░░░░  5.8%
-JavaScript               🕓 1 hr 27 mins   ▎░░░░  5.2%
+Vue.js                   🕓 18 hrs 39 mins ████▏ 83.7%
+JSON                     🕓 2 hrs 2 mins   ▍░░░░  9.2%
+JavaScript               🕓 1 hr 27 mins   ▎░░░░  6.6%
 Nginx configuration file 🕓 2 mins         ░░░░░  0.2%
-CSS                      🕓 2 mins         ░░░░░  0.1%
+CSS                      🕓 2 mins         ░░░░░  0.2%
 ```
 <!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
