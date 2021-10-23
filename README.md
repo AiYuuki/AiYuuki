@@ -12,7 +12,7 @@
 <br>
 <br>
 <ul>
-    <li>Like front-end, but want to become a game developer.</li>
+    <li>Front-end developer, but want to become a game developer.</li>
     <li>Imprisoned by laziness.</li>
     <li>VS Code | macOS | Typora</li>
     <li><a href="https://kira.cool">My Blog</a></li>
