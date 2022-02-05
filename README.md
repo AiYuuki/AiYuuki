@@ -27,11 +27,7 @@
  <!-- waka-box start -->
 #### <a href="https://gist.github.com/2499bd8fe920a610be6ad8925f273ce9" target="_blank">📊 Weekly development breakdown</a>
 ```text
-Vue.js     🕓 1 hr 13 mins ████████▍░░░░░░░░░░░░ 39.9%
-JSON       🕓 58 mins      ██████▋░░░░░░░░░░░░░░ 31.8%
-JavaScript 🕓 26 mins      ██▉░░░░░░░░░░░░░░░░░░ 14.2%
-SQL        🕓 16 mins      █▉░░░░░░░░░░░░░░░░░░░  9.2%
-Other      🕓 5 mins       ▌░░░░░░░░░░░░░░░░░░░░  2.9%
+Still Gathering Statistics...
 ```
 <!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
