@@ -1,4 +1,5 @@
 ### Hi there, I'm [夕綺Yuuki](https://kira.cool/aboutme)~ 👋
+[![wakatime](https://wakatime.com/badge/user/3f765baf-d9e0-4616-a60d-c3492d41388c.svg)](https://wakatime.com/@3f765baf-d9e0-4616-a60d-c3492d41388c)
 <html>
 <a href="https://twitter.com/JindaiYuuki">
     <img align="left" alt="JindaiYuuki | Twitter" width="21px" src="https://raw.githubusercontent.com/JDYuuki/JDYuuki/main/assets/twitter.svg">
