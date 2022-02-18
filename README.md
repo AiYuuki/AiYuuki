@@ -25,14 +25,5 @@
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JDYuuki&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
 
- <!-- waka-box start -->
-#### <a href="https://gist.github.com/2499bd8fe920a610be6ad8925f273ce9" target="_blank">📊 Weekly development breakdown</a>
-```text
-TypeScript 🕓 14 hrs 51 mins ██████████░░░░░░░░░ 53.3%
-Vue.js     🕓 6 hrs 49 mins  ████▋░░░░░░░░░░░░░░ 24.5%
-JSON       🕓 2 hrs 14 mins  █▌░░░░░░░░░░░░░░░░░  8.1%
-JavaScript 🕓 1 hr 32 mins   █░░░░░░░░░░░░░░░░░░  5.5%
-HTML       🕓 50 mins        ▌░░░░░░░░░░░░░░░░░░  3.0%
-```
-<!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
-<!-- waka-box end -->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
