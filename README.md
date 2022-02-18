@@ -24,7 +24,7 @@
  [![github stats](https://github-readme-stats.vercel.app/api?username=JDYuuki&show_icons=true&theme=vue&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JDYuuki&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
-
+📊 Code Stat in the Last 7 Days
 <!--START_SECTION:waka-->
 ```text
 Total: 27 hrs 35 mins
