@@ -33,8 +33,6 @@
 ![wakatime](https://wakatime.com/badge/user/3f765baf-d9e0-4616-a60d-c3492d41388c.svg)
 <!--START_SECTION:waka-->
 ```text
-Total: 32 hrs 7 mins
-
 TypeScript   18 hrs 23 mins  ██████████████▒░░░░░░░░░░   56.83 % 
 Vue.js       6 hrs 41 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.68 % 
 JavaScript   2 hrs 27 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
