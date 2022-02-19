@@ -1,5 +1,5 @@
 <img alt="JindaiYuuki | Twitter" width="100%" src="https://s4.ax1x.com/2022/02/18/H7b9A0.jpg">
-<h1 align="center">Hi there, I'm <a href="https://www.edisonlee55.com"><b>夕綺Yuuki</b></a>!</h1>
+<h1 align="center">Hi there, I'm <a href="https://kira.cool"><b>夕綺Yuuki</b></a>!</h1>
 <p align="center">
     <a href="https://twitter.com/JindaiYuuki">
         <img alt="JindaiYuuki | Twitter" width="25px" src="https://raw.githubusercontent.com/JDYuuki/JDYuuki/main/assets/twitter.svg">
