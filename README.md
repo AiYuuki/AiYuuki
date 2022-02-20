@@ -33,4 +33,11 @@
 ![wakatime](https://wakatime.com/badge/user/3f765baf-d9e0-4616-a60d-c3492d41388c.svg)
 
 <!--START_SECTION:waka-->
+```text
+TypeScript   18 hrs 23 mins  ██████████████▒░░░░░░░░░░   56.83 % 
+Vue.js       6 hrs 41 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.68 % 
+JavaScript   2 hrs 27 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
+JSON         2 hrs 12 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
+HTML         50 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
+```
 <!--END_SECTION:waka-->
