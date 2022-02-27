@@ -33,11 +33,14 @@
 ![wakatime](https://wakatime.com/badge/user/3f765baf-d9e0-4616-a60d-c3492d41388c.svg)
 
 <!--START_SECTION:waka-->
+
 ```text
-Vue.js       12 hrs 45 mins  █████████████▓░░░░░░░░░░░   54.19 % 
-TypeScript   5 hrs 19 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.58 % 
-JavaScript   3 hrs 2 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.93 % 
-JSON         1 hr 42 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
-HTML         14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+Vue.js       12 hrs 45 mins  █████████████▓░░░░░░░░░░░   54.19 %
+TypeScript   5 hrs 19 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.58 %
+JavaScript   3 hrs 2 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.93 %
+JSON         1 hr 42 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.24 %
+HTML         14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
+Java         14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
 ```
+
 <!--END_SECTION:waka-->
