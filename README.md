@@ -35,8 +35,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Java     20 mins         ███████████████████████▓░   94.17 %
-Groovy   1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.83 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
