@@ -35,7 +35,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+unity   1 hr 17 mins    ██████████████████▒░░░░░░   73.20 %
+JSON    17 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.64 %
+C#      10 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.16 %
 ```
 
 <!--END_SECTION:waka-->
