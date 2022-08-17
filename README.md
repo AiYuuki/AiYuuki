@@ -29,6 +29,7 @@
 <br>
 
 📊 **Code Stat in the Last 7 Days** 
+ 
 [![wakatime](https://wakatime.com/badge/user/3f765baf-d9e0-4616-a60d-c3492d41388c.svg)](https://wakatime.com/@3f765baf-d9e0-4616-a60d-c3492d41388c)
 
 <!--START_SECTION:waka-->
