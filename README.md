@@ -2,13 +2,13 @@
 <h1 align="center">Hi there, I'm <a href="https://kira.cool"><b>夕綺Yuuki</b></a>!</h1>
 <p align="center">
     <a href="https://twitter.com/JindaiYuuki">
-        <img alt="JindaiYuuki | Twitter" width="25px" src="https://raw.githubusercontent.com/JDYuuki/JDYuuki/main/assets/twitter.svg">
+        <img alt="JindaiYuuki | Twitter" width="25px" src="https://raw.githubusercontent.com/AiYuuki/AiYuuki/main/assets/twitter.svg">
     </a>&nbsp&nbsp&nbsp
     <a href="https://space.bilibili.com/2719828">
-        <img alt="JindaiYuuki | Bilibili" width="25px" src="https://raw.githubusercontent.com/JDYuuki/JDYuuki/main/assets/bilibili.svg">
+        <img alt="JindaiYuuki | Bilibili" width="25px" src="https://raw.githubusercontent.com/AiYuuki/AiYuuki/main/assets/bilibili.svg">
     </a>&nbsp&nbsp&nbsp
     <a href="https://steamcommunity.com/id/JindaiYuuki">
-        <img alt="JindaiYuuki | Steam" width="25px" src="https://raw.githubusercontent.com/JDYuuki/JDYuuki/main/assets/steam.svg">
+        <img alt="JindaiYuuki | Steam" width="25px" src="https://raw.githubusercontent.com/AiYuuki/AiYuuki/main/assets/steam.svg">
     </a>
 </p>
 <ul>
@@ -19,11 +19,11 @@
 </ul>
 <br>
 <p align="center">
-    <a href="https://github.com/JDYuuki">
-        <img src="https://github-readme-stats.vercel.app/api?username=JDYuuki&show_icons=true&theme=vue&count_private=true" alt="Yuuki's github stats"></a>
+    <a href="https://github.com/AiYuuki">
+        <img src="https://github-readme-stats.vercel.app/api?username=AiYuuki&show_icons=true&theme=vue&count_private=true" alt="Yuuki's github stats"></a>
     <br>
-    <a href="https://github.com/JDYuuki">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JDYuuki&layout=compact&theme=vue" alt="Yuuki's github stats" width="495px">
+    <a href="https://github.com/AiYuuki">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AiYuuki&layout=compact&theme=vue" alt="Yuuki's github stats" width="495px">
     </a>
 </p>
 <br>
