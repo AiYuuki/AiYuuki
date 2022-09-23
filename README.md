@@ -35,7 +35,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+JSON         2 hrs 13 mins   █████████████▒░░░░░░░░░░░   53.04 %
+Markdown     43 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.22 %
+Vue.js       40 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.04 %
+TypeScript   30 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.29 %
+Git          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
 ```
 
 <!--END_SECTION:waka-->
