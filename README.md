@@ -35,7 +35,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Markdown   55 mins         ██████████████████████░░░   87.54 %
+C#         7 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.46 %
 ```
 
 <!--END_SECTION:waka-->
