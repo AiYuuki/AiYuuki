@@ -35,8 +35,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Markdown   2 hrs           ████████████████████████░   96.57 %
-unity      4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 %
+unity   4 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
