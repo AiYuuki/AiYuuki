@@ -35,7 +35,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+PHP               53 mins         ████████████████████▒░░░░   80.87 %
+JavaScript        6 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.68 %
+CSS               5 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 %
+JSON              0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
+Gettext Catalog   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
 ```
 
 <!--END_SECTION:waka-->
