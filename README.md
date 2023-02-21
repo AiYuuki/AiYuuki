@@ -35,8 +35,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-Nginx configuration file   10 mins         ███████████████████████▓░   94.70 %
-SQL                        0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.30 %
+Nginx configuration file   10 mins         ████████████████████▒░░░░   81.98 %
+SQL                        2 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.45 %
+PHP                        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
 ```
 
 <!--END_SECTION:waka-->
