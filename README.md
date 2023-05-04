@@ -18,7 +18,7 @@ He really enjoys studying programming, but seems to be imprisoned by laziness.
 
 He has the following skills:
 
-**Front-end Developer**
+**Front-end**
 
 ![Vue 3](https://img.shields.io/badge/-Vue-42b883?style=flat-square&logo=vue.js&logoColor=white)
 ![Vite 3](https://img.shields.io/badge/-Vite-646cff?style=flat-square&logo=vite&logoColor=white)
@@ -29,7 +29,7 @@ He has the following skills:
 ![uni-app](https://img.shields.io/badge/-uniapp-42b983?style=flat-square&logo=umbraco&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/-ASP.NET-512bd4?style=flat-square&logo=.net&logoColor=white)
 
-**Back-end Developer**
+**Back-end**
 
 ![Node.js](https://img.shields.io/badge/-NodeJS-026e00?style=flat-square&logo=Node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/-NestJS-e0234e?style=flat-square&logo=nestjs&logoColor=white)
