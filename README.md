@@ -70,6 +70,7 @@ Sometimes he signs commits and tags when he remembers to do so.
 
 AI agents and automation sign with a dedicated signing subkey. The certification primary private key is not installed in the agent's signing environment.
 
-- Signing subkey fingerprint: `994B EFA3 5B70 6F9F  CD46 ADB5 60E2 4245 663A 6A53`
+- Primary fingerprint: `ED23 BE96 8212 C102 8873  EAF5 C578 C9AB DC19 CAB0`
+- Signing subkey fingerprint: `994B EFA3 5B70 6F9F CD46  ADB5 60E2 4245 663A 6A53`
 
 A signature made with the AI agents key identifies the automation signing identity. It does not imply that he personally reviewed or approved the commit, nor does it guarantee the correctness of its contents.
