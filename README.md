@@ -56,7 +56,19 @@ He has the following skills, although some of them may be a little rusty:
 
 ## Verification
 
+### Personal signing key
 Sometimes he signs commits and tags when he remembers to do so.
 
 - GPG public key: https://github.com/AiYuuki.gpg
 - Fingerprint: `9B3C 5B63 BACA A7B2 01E9  EF56 11DD 6396 D549 AAB3`
+
+### Agents signing key
+
+AI agents and automation use a separate signing key from his personal key.
+
+- GPG public key: https://github.com/keys/Agents.gpg
+- Fingerprint: `994B EFA3 5B70 6F9F CD46  ADB5 60E2 4245 663A 6A53`
+
+A signature made with this key identifies the automation signing identity.
+It does not imply that I personally reviewed or approved the commit,
+nor does it guarantee the correctness of its contents.
