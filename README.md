@@ -56,19 +56,20 @@ He has the following skills, although some of them may be a little rusty:
 
 ## Verification
 
+He uses separate GPG keys for personal and AI agents signatures.
+
+Both public certificates are available at [github.com/AiYuuki.gpg](https://github.com/AiYuuki.gpg). This endpoint provides the GPG public keys registered to his GitHub account; use the fingerprints below to distinguish the signing identities.
+
 ### Personal signing key
+
 Sometimes he signs commits and tags when he remembers to do so.
 
-- GPG public key: https://github.com/AiYuuki.gpg
-- Fingerprint: `9B3C 5B63 BACA A7B2 01E9  EF56 11DD 6396 D549 AAB3`
+- Primary fingerprint: `9B3C 5B63 BACA A7B2 01E9  EF56 11DD 6396 D549 AAB3`
 
-### Agents signing key
+### AI agents signing key
 
-AI agents and automation use a separate signing key from his personal key.
+AI agents and automation sign with a dedicated signing subkey. The certification primary private key is not installed in the agent's signing environment.
 
-- GPG public key: https://github.com/keys/Agents.gpg
-- Fingerprint: `994B EFA3 5B70 6F9F CD46  ADB5 60E2 4245 663A 6A53`
+- Signing subkey fingerprint: `994B EFA3 5B70 6F9F  CD46 ADB5 60E2 4245 663A 6A53`
 
-A signature made with this key identifies the automation signing identity.
-It does not imply that I personally reviewed or approved the commit,
-nor does it guarantee the correctness of its contents.
+A signature made with the AI agents key identifies the automation signing identity. It does not imply that he personally reviewed or approved the commit, nor does it guarantee the correctness of its contents.
